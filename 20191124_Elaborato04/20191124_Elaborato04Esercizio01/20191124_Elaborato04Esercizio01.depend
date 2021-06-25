@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1574334616 source:c:\users\andre\desktop\20191124_elaborato04esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1574421114 source:f:\20191124_elaborato04esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574157362 source:d:\20191124_elaborato04esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1574346021 source:c:\users\andrea.zacconi2\desktop\20191124_elaborato04esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

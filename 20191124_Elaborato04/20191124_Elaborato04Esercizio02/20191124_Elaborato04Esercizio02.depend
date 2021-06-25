@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1573672330 source:c:\users\andre\desktop\20191124_elaborato04esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1573751684 source:c:\users\andrea.zacconi2\desktop\20191124_elaborato04esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1573751686 source:f:\elaboratiper il 24\20191124_elaborato04esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1573751686 source:c:\users\andre\desktop\20191124_elaborato04\20191124_elaborato04esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574969688 source:e:\università\programmazione\progetto\20191124_elaborato04\20191124_elaborato04esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+
