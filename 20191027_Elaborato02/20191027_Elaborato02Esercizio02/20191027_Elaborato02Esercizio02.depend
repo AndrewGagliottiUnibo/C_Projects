@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571563713 source:c:\users\andre\desktop\20191027_elaborato02esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1571565470 source:d:\università\programmazione\progetto\20191027_elaborato02\20191027_elaborato02esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
