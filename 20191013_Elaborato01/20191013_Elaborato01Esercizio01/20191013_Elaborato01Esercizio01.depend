@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570965070 source:c:\users\andre\desktop\università\programmazione\progetto\20191013_elaborato01\20191013_elaborato01esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<float.h>
+
