@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1577131575 source:c:\users\zack\desktop\codestatiche\libcodestatiche.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStatiche.h"
+
+1577131280 c:\users\zack\desktop\codestatiche\libcodestatiche.h
+
+1577131467 source:c:\users\zack\desktop\codestatiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStatiche.h"
+
+1577565514 source:c:\users\andre\desktop\università\primo semestre\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\code\codestatiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStatiche.h"
+
+1577565514 c:\users\andre\desktop\università\primo semestre\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\code\codestatiche\libcodestatiche.h
+

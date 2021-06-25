@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1576969632 source:c:\users\andre\desktop\listadinamica\lib_listadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaDInamica.h"
+
+1576968658 source:c:\users\andre\desktop\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaDInamica.h"
+
+1576966907 c:\users\andre\desktop\listadinamica\lib_listadinamica.h
+
+1577128937 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaDInamica.h"
+
+1576966907 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\listadinamica\lib_listadinamica.h
+
+1577125708 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\listadinamica\lib_listadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaDInamica.h"
+

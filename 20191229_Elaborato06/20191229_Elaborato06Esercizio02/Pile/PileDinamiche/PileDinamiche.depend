@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1577130324 source:c:\users\andre\desktop\piledinamiche\lib_piledinamiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+
+1577130032 source:c:\users\andre\desktop\piledinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+
+1577124781 c:\users\andre\desktop\piledinamiche\lib_piledinamiche.h
+
+1577130979 source:c:\users\andre\desktop\pile\piledinamiche\lib_piledinamiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+
+1577124781 c:\users\andre\desktop\pile\piledinamiche\lib_piledinamiche.h
+
+1577130928 source:c:\users\andre\desktop\pile\piledinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+
+1577566669 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\piledinamiche\lib_piledinamiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+
+1577124781 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\piledinamiche\lib_piledinamiche.h
+
+1577130928 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\piledinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileDinamiche.h"
+

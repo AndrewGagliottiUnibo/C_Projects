@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577203037 source:c:\users\zack\desktop\codedinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeDinamiche.h"
+
+1577534977 source:c:\users\zack\desktop\codedinamiche\libcodedinamiche.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeDinamiche.h"
+
+1577202505 c:\users\zack\desktop\codedinamiche\libcodedinamiche.h
+

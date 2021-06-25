@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1577024363 source:c:\users\andre\desktop\pilecollegate\lib_pilecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+
+1577024508 source:c:\users\andre\desktop\pilecollegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+
+1577022684 c:\users\andre\desktop\pilecollegate\lib_pilecollegate.h
+
+1577130751 source:c:\users\andre\desktop\pile\pilecollegate\lib_pilecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+
+1577022684 c:\users\andre\desktop\pile\pilecollegate\lib_pilecollegate.h
+
+1577130697 source:c:\users\andre\desktop\pile\pilecollegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+
+1577573630 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilecollegate\lib_pilecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+
+1577573326 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilecollegate\lib_pilecollegate.h
+
+1577574385 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilecollegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileCollegate.h"
+

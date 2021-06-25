@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1576961860 source:c:\users\andre\desktop\liste_collegate\lib_listecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+
+1576963910 c:\users\andre\desktop\liste_collegate\lib_listecollegate.h
+
+1576961918 source:c:\users\andre\desktop\liste_collegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+
+1576963910 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\lib_listecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+
+1578831087 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\lib_listecollegate.h
+
+1576961918 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+
+1580660535 source:c:\users\andre\desktop\università\primo semestre\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\lib_listecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+
+1578831088 c:\users\andre\desktop\università\primo semestre\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\lib_listecollegate.h
+
+1576961920 source:c:\users\andre\desktop\università\primo semestre\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\liste_collegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListeCollegate.h"
+

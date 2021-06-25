@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1577535455 source:c:\users\zack\desktop\codestrutturecollegate\libcodestrutturecollegate.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStruttureCollegate.h"
+
+1577131344 c:\users\zack\desktop\codestrutturecollegate\libcodestrutturecollegate.h
+
+1577131344 source:c:\users\zack\desktop\codestrutturecollegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStruttureCollegate.h"
+
+1577565513 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\code\codestrutturecollegate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibCodeStruttureCollegate.h"
+
+1577565513 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\code\codestrutturecollegate\libcodestrutturecollegate.h
+

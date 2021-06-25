@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1577123978 source:c:\users\andre\desktop\pilestatiche\lib_pilestatiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileStatiche.h"
+
+1577123978 c:\users\andre\desktop\pilestatiche\lib_pilestatiche.h
+
+1577129639 source:c:\users\andre\desktop\pilestatiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileStatiche.h"
+
+1577129639 source:c:\users\andre\desktop\pile\pilestatiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileStatiche.h"
+
+1577123978 c:\users\andre\desktop\pile\pilestatiche\lib_pilestatiche.h
+
+1577129743 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilestatiche\lib_pilestatiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileStatiche.h"
+
+1577123978 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilestatiche\lib_pilestatiche.h
+
+1577129639 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio02\pile\pilestatiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_PileStatiche.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1576964505 source:c:\users\andre\desktop\lista_statica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
+1576963910 c:\users\andre\desktop\lista_statica\lib_listastatica.h
+
+1576963910 source:c:\users\andre\desktop\lista_statica\lib_listastatica.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
+1576968369 source:c:\users\andre\desktop\20191229_elaborato06esercizio01\lista_statica\lib_listastatica.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
+1576965467 c:\users\andre\desktop\20191229_elaborato06esercizio01\lista_statica\lib_listastatica.h
+
+1576968301 source:c:\users\andre\desktop\20191229_elaborato06esercizio01\lista_statica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
+1577026050 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\lista_statica\lib_listastatica.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
+1577024813 c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\lista_statica\lib_listastatica.h
+
+1576968301 source:c:\users\andre\desktop\università\programmazione\progetto\20191229_elaborato06\20191229_elaborato06esercizio01\lista_statica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib_ListaStatica.h"
+
